@@ -1,0 +1,31 @@
+{
+   "asset" : {
+      "generator" : "osg2cesiumApp",
+      "version" : "1.0"
+   },
+   "properties" : null,
+   "root" : {
+      "boundingVolume" : {
+         "box" : [
+            58.611885070800781,
+            6.7628402709960938,
+            -46.204544067382813,
+            212.35418701171875,
+            0.0,
+            0.0,
+            0.0,
+            182.73635864257813,
+            0.0,
+            0.0,
+            0.0,
+            39.638206481933594
+         ]
+      },
+      "children" : [],
+      "content" : {
+         "uri" : "root.b3dm"
+      },
+      "geometricError" : 787232.0625,
+      "refine" : "REPLACE"
+   }
+}
